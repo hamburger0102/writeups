@@ -18,3 +18,4 @@ Steps:
 ![spectogram](spectogram.png)
 ![flag](flag.png)
 
+# Flag: CSIA{1_r34lly_w4n7_t0_g0_h0m3_n0w}
