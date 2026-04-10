@@ -15,5 +15,6 @@ Steps:
 4. I downloaded Audacity and uploaded the wav file there. 
 5. I researched and found spectogram, so I set it on my file's settings and there you see, the flag.
 
-[spectogram](https://github.com/hamburger0102/writeups/blob/main/2026/csia/going-home/spectogram.png)
-[flag](https://github.com/hamburger0102/writeups/blob/main/2026/csia/going-home/flag.png)
+![spectogram](spectogram.png)
+![flag](flag.png)
+
